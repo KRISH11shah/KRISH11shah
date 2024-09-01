@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KRISH11shah
 - 👀 I’m interested in c++ include DSA, and management system.
-- 🌱 I’m currently learning AL and webdevp
+- 🌱 I’m currently learning AL and ML
 - 💞️ I’m looking to collaborate on projects related my skills.
 - 😄 Pronouns: stupid learner
 - ⚡ Fun fact: |neutral to return world|
